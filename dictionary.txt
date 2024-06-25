@@ -1,0 +1,3 @@
+apple:fruit
+rose:red flower
+table:furniture
