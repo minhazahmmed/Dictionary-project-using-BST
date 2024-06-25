@@ -1,4 +1,0 @@
-apple:fruit
-book:which can be read
-school:institution
-table:instrument
